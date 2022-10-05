@@ -1,9 +1,9 @@
 /**
   ******************************************************************************
-  * @file    nucleo_led.c 
-  * @author  mortamar@andrew.cmu.edu
+  * @file    hardware_stm_gpio.c 
+  * @author  jdiyora@andrew.cmu.edu
   * @version 1.0
-  * @date    Septembr-2021
+  * @date    Oct-2022
   * @brief   Controls the LED's on the nucleo board
   ******************************************************************************
   */
