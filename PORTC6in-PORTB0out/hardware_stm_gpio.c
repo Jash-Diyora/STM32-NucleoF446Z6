@@ -1,9 +1,9 @@
 /**
   ******************************************************************************
   * @file    hardware_stm_gpio.c 
-  * @author  mortamar@andrew.cmu.edu
+  * @author  jdiyora@andrew.cmu.edu
   * @version 1.0
-  * @date    Septembr-2021
+  * @date    Oct-2022
   * @brief   Controls STM32F446ze GPIO
   ******************************************************************************
   */
