@@ -41,7 +41,7 @@ void low_LED1( void )
 void init_InputPC6( void )
 {
     //input PORTC6
-    initGpioB0AsOutput();
+    initGpioC6AsInput();
 }
 
 void checkstatusPC6( void )
